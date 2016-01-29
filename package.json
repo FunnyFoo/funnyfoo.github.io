@@ -1,0 +1,21 @@
+{
+  "name": "funnyfoo.github.io",
+  "version": "1.0.0",
+  "description": "Funnyfoo Studio landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funnyfoo"
+  ],
+  "author": "funnyfoo",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
